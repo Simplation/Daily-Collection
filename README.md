@@ -12,3 +12,10 @@ Collect some commonly used tools and better projects.
 | Utils | DensityUtil | dp2px px2dp |
 | Utils | CountDownUtil | 倒计时 |
 | Utils | CleanCacheUtil | 清理缓存 |
+| Utils | BadeUtils | 机型角标 |
+| Utils | KeyBoardUtils | 打开/关闭软键盘 |
+| Utils | NetUtils | 网络相关 |
+| Utils | SDCardUtils | SD卡 |
+| Utils | SPUtils | SharePerference |
+| Utils | T | Toast封装 |
+| Utils | ScreenUtils | 屏幕相关操作 |
