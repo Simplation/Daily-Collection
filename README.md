@@ -20,3 +20,4 @@ Collect some commonly used tools and better projects.
 | Utils | T | Toast封装 |
 | Utils | ScreenUtils | 屏幕相关操作 |
 | Utils | AppUtils | 应用名称、版本信息 |
+| Utils | NetUtils | 网络请求 |
