@@ -21,3 +21,8 @@ Collect some commonly used tools and better projects.
 | Utils | ScreenUtils | 屏幕相关操作 |
 | Utils | AppUtils | 应用名称、版本信息 |
 | Utils | NetUtils | 网络请求 |
+| Utils | UploadUtil | 数据上传工具类 |
+| Utils | SpannableStringUtils | SpannableString相关工具类 |
+| Utils | ImageConvertor | 图片转换工具类 |
+| Utils | FileIOUtils | 文件的 IO 操作工具类 |
+| Utils | GetShare1 | 获取apk的share1值 |
