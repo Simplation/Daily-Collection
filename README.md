@@ -30,6 +30,7 @@ Collect some commonly used tools and better projects.
 | Utils | ImageConvertor | 图片转换工具类 |
 | Utils | FileIOUtils | 文件的 IO 操作工具类 |
 | Utils | GetShare1 | 获取apk的share1值 |
+| Utils | WiFiUtils | WIFI的工具类 |
 
 
 - Third-party Tool Libraries
