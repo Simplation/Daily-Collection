@@ -31,6 +31,7 @@ Collect some commonly used tools and better projects.
 | Utils | FileIOUtils | 文件的 IO 操作工具类 |
 | Utils | GetShare1 | 获取apk的share1值 |
 | Utils | WiFiUtils | WIFI的工具类 |
+| Utils | AppManager| Activity 堆栈管理|
 
 
 - Third-party Tool Libraries
