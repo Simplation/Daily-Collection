@@ -12,7 +12,7 @@
 |  Utils  |       NetUtils       |           网络相关           |
 |  Utils  |     SDCardUtils      |             SD卡             |
 |  Utils  |       SPUtils        |       SharePerference        |
-|  Utils  |          T           |          Toast封装           |
+|  Utils  |      ToastUtils      |          Toast封装           |
 |  Utils  |     ScreenUtils      |         屏幕相关操作         |
 |  Utils  |       AppUtils       |      应用名称、版本信息      |
 |  Utils  |       NetUtils       |           网络请求           |
@@ -30,4 +30,4 @@
 |  Utils  |      TimeUtils       |        时间管理工具类        |
 |  Utils  |      BarChartUtils   |        MPAndroid BarChart 工具类    |
 |  Utils  |      ChartLineUtils  |        MPAndroid LineChart 工具类    |
-|  Utils  |   DownloadUtil       |        文件下载（Okhttp）     |
+|  Utils  |     DownloadUtil     |        文件下载（Okhttp）     |
