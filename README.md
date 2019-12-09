@@ -40,6 +40,8 @@ Collect some commonly used tools and better projects.
 |  Utils  |      TimeUtils       |        时间管理工具类        |
 |  Utils  |      BarChartUtils   |        MPAndroid BarChart 工具类    |
 |  Utils  |      ChartLineUtils  |        MPAndroid LineChart 工具类    |
+|  Utils  |   DownloadUtil       |        文件下载（Okhttp）     |
+
 
 
 - Third-party Tool Libraries
