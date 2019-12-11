@@ -16,6 +16,8 @@ https://github.com/ittianyu/BottomNavigationViewEx
 ### 6.Android 组件化开发案例
 https://github.com/yangchong211/LifeHelper
 ### 7.Banner 轮播图效果
+BannerViewPager：https://github.com/zhpanvip/BannerViewPager （推荐）
+
 Android-ConvenientBanner：https://github.com/saiwu-bigkoo/Android-ConvenientBanner
 
 BGABanner-Android：https://github.com/bingoogolapple/BGABanner-Android
