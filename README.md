@@ -50,7 +50,7 @@ Collect some commonly used tools and better projects.
     | :-----: | :------------------- | :------------------- |
     | kotlin  | CacheDataUtil        | 缓存管理             |
     | kotlin  | SharedPreferenceUtil | SharedPreference     |
-  | kotlin  | ChartLineUtils       | MPAndroid 线性图表   |
+    | kotlin  | ChartLineUtils       | MPAndroid 线性图表   |
     | kotlin  | BarChartUtils        | MPAndroid 分组柱状图 |
     
     
