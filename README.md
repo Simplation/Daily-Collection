@@ -39,7 +39,7 @@ Collect some commonly used tools and better projects.
     |  java   | BarChartUtils        | MPAndroid BarChart 工具类    |
     |  java   | ChartLineUtils       | MPAndroid LineChart 工具类   |
     |  java   | DownloadUtil         | 文件下载（Okhttp）           |
-
+    |  java   | AppManager           | 堆栈管理工具                 |
     
 
   - kotlin：kotlin 工具类
@@ -50,7 +50,9 @@ Collect some commonly used tools and better projects.
     | kotlin  | SharedPreferenceUtil | SharedPreference     |
     | kotlin  | ChartLineUtils       | MPAndroid 线性图表   |
     | kotlin  | BarChartUtils        | MPAndroid 分组柱状图 |
-    
+    | kotlin  | CommonUtil           | 公共 Util           |
+    | kotlin  | CustomToast          | Toast               |
+    | kotlin  | DateUtil             | 日期工具类           |
     
 
 - Third-party Tool Libraries
