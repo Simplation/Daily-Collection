@@ -53,6 +53,8 @@ Collect some commonly used tools and better projects.
     | kotlin  | CommonUtil           | 公共 Util           |
     | kotlin  | CustomToast          | Toast               |
     | kotlin  | DateUtil             | 日期工具类           |
+    | kotlin  | AppUtil              | App 的版本号、内存大小|
+    | kotlin  | DialogUtil           | Dialog              |
     
 
 - Third-party Tool Libraries
