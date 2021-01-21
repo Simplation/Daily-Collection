@@ -10,7 +10,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 /**
- * Http请求的工具类
+ * Http 请求的工具类
  */
 public class HttpUtils {
 
