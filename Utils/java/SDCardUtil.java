@@ -1,4 +1,4 @@
-package com.example.testutils.util;
+package com.example.app;
 
 import android.app.ActivityManager;
 import android.content.Context;
@@ -16,7 +16,7 @@ import java.io.FileReader;
 import java.lang.reflect.Method;
 
 
-public class SDCardUtils {
+public class SDCardUtil {
 
     private static final int INTERNAL_STORAGE = 0;
     private static final int EXTERNAL_STORAGE = 1;
