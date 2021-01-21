@@ -1,4 +1,4 @@
-package com.example.testutils.utils;
+package com.example.app;
 
 import android.app.Activity;
 import android.os.CountDownTimer;
@@ -11,7 +11,7 @@ import java.util.Locale;
 import java.util.TimeZone;
 
 
-public class TimeUtils {
+public class TimeUtil {
 
     private static CountDownTimer timer;
     private static long time = 0;//倒计时
