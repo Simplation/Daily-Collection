@@ -1,4 +1,4 @@
-﻿
+package com.example.app
 
 import android.app.Activity;
 import android.content.ComponentName;
@@ -7,8 +7,8 @@ import android.content.Intent;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 
-//跟网络相关的工具类
-public class NetUtils {
+// 网络相关的工具类
+public class NetUtil {
 	private NetUtils() {
 		/* cannot be instantiated */
 		throw new UnsupportedOperationException("cannot be instantiated");
@@ -38,7 +38,7 @@ public class NetUtils {
 	}
 
 	/**
-	 * 判断是否是wifi连接
+	 * 判断是否是 wifi 连接
 	 */
 	public static boolean isWifi(Context context) {
 		ConnectivityManager cm = (ConnectivityManager) context
