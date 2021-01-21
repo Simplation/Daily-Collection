@@ -35,9 +35,9 @@ import android.text.style.UnderlineSpan;
 /**
  *  SpannableString相关工具类
  */
-public class SpannableStringUtils {
+public class SpannableStringUtil {
 
-    private SpannableStringUtils() {
+    private SpannableStringUtil() {
         throw new UnsupportedOperationException("can't instantiate it !!!");
     }
 
