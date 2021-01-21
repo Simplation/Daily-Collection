@@ -6,7 +6,7 @@ import android.content.pm.PackageManager;
 import android.content.pm.PackageManager.NameNotFoundException;
 
 /** 
- *App相关的工具类
+ * App 相关的工具类
  */
 public class AppUtils {
 
