@@ -1,4 +1,4 @@
-﻿
+package com.example.app;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
@@ -7,8 +7,8 @@ import java.util.Map;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-public class SPUtils {
-	public SPUtils() {
+public class SPUtil {
+	public SPUtil() {
 		/* cannot be instantiated */
 		throw new UnsupportedOperationException("cannot be instantiated");
 	}
